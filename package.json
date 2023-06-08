@@ -1,0 +1,24 @@
+{
+  "name": "typescript-aoc-2022",
+  "version": "1.0.0",
+  "description": "my attempt at the advent of code tasks in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohvelikissa/typescript-aoc-2022.git"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code"
+  ],
+  "author": "vohvelikissa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vohvelikissa/typescript-aoc-2022/issues"
+  },
+  "homepage": "https://github.com/vohvelikissa/typescript-aoc-2022#readme"
+}
